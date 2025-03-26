@@ -1,0 +1,3602 @@
+[
+    {
+        "char": "爱",
+        "pinyin": "ài",
+        "definition": "to love",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "八",
+        "pinyin": "bā",
+        "definition": "eight",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "爸爸",
+        "pinyin": "bà ba",
+        "definition": "father",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "北京",
+        "pinyin": "běi jīng",
+        "definition": "Beijing",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "杯子",
+        "pinyin": "bēi zi",
+        "definition": "cup; glass; mug",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "本",
+        "pinyin": "běn",
+        "definition": "root; [measure word for books]",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "不",
+        "pinyin": "bù",
+        "definition": "not; no",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "不客气",
+        "pinyin": "bú kè qi",
+        "definition": "you're welcome; impolite",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "菜",
+        "pinyin": "cài",
+        "definition": "vegetable",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "茶",
+        "pinyin": "chá",
+        "definition": "tea",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "吃",
+        "pinyin": "chī",
+        "definition": "to eat",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "出租车",
+        "pinyin": "chū zū chē",
+        "definition": "taxi",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "大",
+        "pinyin": "dà",
+        "definition": "big",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "打电话",
+        "pinyin": "dǎ diàn huà",
+        "definition": "to make a telephone call",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "的",
+        "pinyin": "de",
+        "definition": "of",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "点",
+        "pinyin": "diǎn",
+        "definition": "o’clock; spot; dot",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "电脑",
+        "pinyin": "diàn nǎo",
+        "definition": "computer",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "电视",
+        "pinyin": "diàn shì",
+        "definition": "TV",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "电影",
+        "pinyin": "diàn yǐng",
+        "definition": "film; movie",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "东西",
+        "pinyin": "dōng xi",
+        "definition": "thing",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "都",
+        "pinyin": "dōu",
+        "definition": "both; all",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "读",
+        "pinyin": "dú",
+        "definition": "read aloud",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "对不起",
+        "pinyin": "duì bu qǐ",
+        "definition": "sorry",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "多",
+        "pinyin": "duō",
+        "definition": "much/many; how [+adjective]",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "多少",
+        "pinyin": "duō shǎo",
+        "definition": "how much/many?",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "二",
+        "pinyin": "èr",
+        "definition": "two",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "儿子",
+        "pinyin": "ér zi",
+        "definition": "son",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "饭店",
+        "pinyin": "fàn diàn",
+        "definition": "restaurant",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "飞机",
+        "pinyin": "fēi jī",
+        "definition": "plane",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "分钟",
+        "pinyin": "fēn zhōng",
+        "definition": "minute",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "高兴",
+        "pinyin": "gāo xìng",
+        "definition": "pleased; happy",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "个",
+        "pinyin": "gè",
+        "definition": "individual; [general measure word]",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "工作",
+        "pinyin": "gōng zuò",
+        "definition": "job; work",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "狗",
+        "pinyin": "gǒu",
+        "definition": "dog",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "汉语",
+        "pinyin": "hàn yǔ",
+        "definition": "Standard Chinese language",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "好",
+        "pinyin": "hǎo",
+        "definition": "good",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "号",
+        "pinyin": "hào",
+        "definition": "number; day of a month",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "喝",
+        "pinyin": "hē",
+        "definition": "to drink",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "和",
+        "pinyin": "hé",
+        "definition": "and ",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "很",
+        "pinyin": "hěn",
+        "definition": "very",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "后面",
+        "pinyin": "hòu miàn",
+        "definition": "at the back; behind; later",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "回",
+        "pinyin": "huí",
+        "definition": "to return",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "会",
+        "pinyin": "huì",
+        "definition": "to know how to; can; meeting",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "几",
+        "pinyin": "jǐ",
+        "definition": "how much/many? [expecting a small number]",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "家",
+        "pinyin": "jiā",
+        "definition": "family; home",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "叫",
+        "pinyin": "jiào",
+        "definition": "to call; to be named",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "今天",
+        "pinyin": "jīn tiān",
+        "definition": "today",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "九",
+        "pinyin": "jiǔ",
+        "definition": "nine",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "开",
+        "pinyin": "kāi",
+        "definition": "to switch on; open",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "看",
+        "pinyin": "kàn",
+        "definition": "to see; to read; to watch; to look at",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "看见",
+        "pinyin": "kàn jiàn",
+        "definition": "see",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "块",
+        "pinyin": "kuài",
+        "definition": "lump; piece",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "来",
+        "pinyin": "lái",
+        "definition": "to come",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "老师",
+        "pinyin": "lǎo shī",
+        "definition": "teacher",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "了",
+        "pinyin": "le",
+        "definition": "[makes an exclamation]",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "冷",
+        "pinyin": "lěng",
+        "definition": "cold",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "里",
+        "pinyin": "lǐ",
+        "definition": "in",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "六",
+        "pinyin": "liù",
+        "definition": "six",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "吗",
+        "pinyin": "ma",
+        "definition": "[makes a yes; no question]",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "妈妈",
+        "pinyin": "mā ma",
+        "definition": "mother",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "买",
+        "pinyin": "mǎi",
+        "definition": "buy",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "猫",
+        "pinyin": "māo",
+        "definition": "cat",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "没关系",
+        "pinyin": "méi guān xi",
+        "definition": "no problem",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "没有",
+        "pinyin": "méi yǒu",
+        "definition": "don't have",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "米饭",
+        "pinyin": "mǐ fàn",
+        "definition": "rice [cooked; boiled]",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "明天",
+        "pinyin": "míng tiān",
+        "definition": "tomorrow",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "名字",
+        "pinyin": "míng zi",
+        "definition": "given name",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "哪",
+        "pinyin": "nǎ",
+        "definition": "which?",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "那",
+        "pinyin": "nà",
+        "definition": "that",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "哪儿",
+        "pinyin": "nǎ er",
+        "definition": "where?",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "呢",
+        "pinyin": "ne",
+        "definition": "[returns; forwards a question]",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "能",
+        "pinyin": "néng",
+        "definition": "to be able to; can",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "你",
+        "pinyin": "nǐ",
+        "definition": "you",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "年",
+        "pinyin": "nián",
+        "definition": "year",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "女儿",
+        "pinyin": "nǚ ér",
+        "definition": "daughter",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "朋友",
+        "pinyin": "péng you",
+        "definition": "friend",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "漂亮",
+        "pinyin": "piào liang",
+        "definition": "beautiful",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "苹果",
+        "pinyin": "píng guǒ",
+        "definition": "apple",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "七",
+        "pinyin": "qī",
+        "definition": "seven",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "钱",
+        "pinyin": "qián",
+        "definition": "money",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "前面",
+        "pinyin": "qián miàn",
+        "definition": "front",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "请",
+        "pinyin": "qǐng",
+        "definition": "to invite; please",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "去",
+        "pinyin": "qù",
+        "definition": "to go",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "热",
+        "pinyin": "rè",
+        "definition": "hot",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "人",
+        "pinyin": "rén",
+        "definition": "person; people",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "认识",
+        "pinyin": "rèn shi",
+        "definition": "to know [be familiar with]",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "三",
+        "pinyin": "sān",
+        "definition": "three",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "上",
+        "pinyin": "shàng",
+        "definition": "up; above",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "商店",
+        "pinyin": "shāng diàn",
+        "definition": "shop",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "上午",
+        "pinyin": "shàng wǔ",
+        "definition": "morning",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "少",
+        "pinyin": "shǎo",
+        "definition": "few",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "谁",
+        "pinyin": "shéi",
+        "definition": "who?",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "什么",
+        "pinyin": "shén me",
+        "definition": "what?",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "十",
+        "pinyin": "shí",
+        "definition": "ten",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "是",
+        "pinyin": "shì",
+        "definition": "to be",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "时候",
+        "pinyin": "shí hou",
+        "definition": "[duration of] time",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "书",
+        "pinyin": "shū",
+        "definition": "book",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "水",
+        "pinyin": "shuǐ",
+        "definition": "water",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "水果",
+        "pinyin": "shuǐ guǒ",
+        "definition": "fruit",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "睡觉",
+        "pinyin": "shuì jiào",
+        "definition": "to go to bed; to sleep",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "说",
+        "pinyin": "shuō",
+        "definition": "speak",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "四",
+        "pinyin": "sì",
+        "definition": "four",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "岁",
+        "pinyin": "suì",
+        "definition": "year (of crop harvests)",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "他",
+        "pinyin": "tā",
+        "definition": "he; him",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "她",
+        "pinyin": "tā",
+        "definition": "she; her",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "太",
+        "pinyin": "tài",
+        "definition": "very",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "天气",
+        "pinyin": "tiān qì",
+        "definition": "weather",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "听",
+        "pinyin": "tīng",
+        "definition": "to listen; hear",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "同学",
+        "pinyin": "tóng xué",
+        "definition": "schoolmate; classmate",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "喂",
+        "pinyin": "wèi",
+        "definition": "hello",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "我",
+        "pinyin": "wǒ",
+        "definition": "I; me",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "我们",
+        "pinyin": "wǒ men",
+        "definition": "we; us",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "五",
+        "pinyin": "wǔ",
+        "definition": "five",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "喜欢",
+        "pinyin": "xǐ huan",
+        "definition": "to like",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "下",
+        "pinyin": "xià",
+        "definition": "down; below",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "下午",
+        "pinyin": "xià wǔ",
+        "definition": "afternoon",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "下雨",
+        "pinyin": "xià yǔ",
+        "definition": "rain",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "先生",
+        "pinyin": "xiān sheng",
+        "definition": "Mr; Sir",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "现在",
+        "pinyin": "xiàn zài",
+        "definition": "now",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "想",
+        "pinyin": "xiǎng",
+        "definition": "to want; to think",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "小",
+        "pinyin": "xiǎo",
+        "definition": "small",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "小姐",
+        "pinyin": "xiǎo jiě",
+        "definition": "Miss; young lady",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "些",
+        "pinyin": "xiē",
+        "definition": "some",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "写",
+        "pinyin": "xiě",
+        "definition": "to write",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "谢谢",
+        "pinyin": "xiè xie",
+        "definition": "thank you",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "星期",
+        "pinyin": "xīng qī",
+        "definition": "week",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "学生",
+        "pinyin": "xué sheng",
+        "definition": "student",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "学习",
+        "pinyin": "xué xí",
+        "definition": "to learn; to study",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "学校",
+        "pinyin": "xué xiào",
+        "definition": "school",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "一",
+        "pinyin": "yī",
+        "definition": "one; once; first; structural word between two of the same verb; as soon as; throughout",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "一点儿",
+        "pinyin": "yī diǎn er",
+        "definition": "a bit",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "衣服",
+        "pinyin": "yī fu",
+        "definition": "clothes",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "医生",
+        "pinyin": "yī shēng",
+        "definition": "doctor",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "医院",
+        "pinyin": "yī yuàn",
+        "definition": "hospital",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "椅子",
+        "pinyin": "yǐ zi",
+        "definition": "chair",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "有",
+        "pinyin": "yǒu",
+        "definition": "to have",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "月",
+        "pinyin": "yuè",
+        "definition": "month; moon",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "在",
+        "pinyin": "zài",
+        "definition": "in; at; on",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "再见",
+        "pinyin": "zài jiàn",
+        "definition": "goodbye",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "怎么",
+        "pinyin": "zěn me",
+        "definition": "how?",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "怎么样",
+        "pinyin": "zěn me yàng",
+        "definition": "how about it",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "这",
+        "pinyin": "zhè",
+        "definition": "this",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "中国",
+        "pinyin": "zhōng guó",
+        "definition": "China",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "中午",
+        "pinyin": "zhōng wǔ",
+        "definition": "midday",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "住",
+        "pinyin": "zhù",
+        "definition": "to live; stay (a number of nights)",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "桌子",
+        "pinyin": "zhuō zi",
+        "definition": "table",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "字",
+        "pinyin": "zì",
+        "definition": "(Chinese) character",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "坐",
+        "pinyin": "zuò",
+        "definition": "to sit",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "做",
+        "pinyin": "zuò",
+        "definition": "to do; to be; become (an occupation) ",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "昨天",
+        "pinyin": "zuó tiān",
+        "definition": "yesterday",
+        "hsk": "HSK1"
+    },
+    {
+        "char": "吧",
+        "pinyin": "ba",
+        "definition": "[makes a suggestion, eg. \"Let's …\")]",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "白",
+        "pinyin": "bái",
+        "definition": "white",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "百",
+        "pinyin": "bǎi",
+        "definition": "hundred",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "帮助",
+        "pinyin": "bāng zhù",
+        "definition": "to help",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "报纸",
+        "pinyin": "bào zhǐ",
+        "definition": "newspaper",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "比",
+        "pinyin": "bǐ",
+        "definition": "to compare",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "别",
+        "pinyin": "bié",
+        "definition": "separate",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "宾馆",
+        "pinyin": "bīn guǎn",
+        "definition": "guesthouse",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "长",
+        "pinyin": "cháng",
+        "definition": "long",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "唱歌",
+        "pinyin": "chàng gē",
+        "definition": "to sing; singing",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "出",
+        "pinyin": "chū",
+        "definition": "to go out",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "穿",
+        "pinyin": "chuān",
+        "definition": "to wear; to put on",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "次",
+        "pinyin": "cì",
+        "definition": "time",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "从",
+        "pinyin": "cóng",
+        "definition": "from; follow; comply with",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "错",
+        "pinyin": "cuò",
+        "definition": "wrong",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "大家",
+        "pinyin": "dà jiā",
+        "definition": "everybody",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "打篮球",
+        "pinyin": "dǎ lán qiú",
+        "definition": "play basketball",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "到",
+        "pinyin": "dào",
+        "definition": "to arrive; to get to",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "得",
+        "pinyin": "de",
+        "definition": "[particle to connect verb to adverb]",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "等",
+        "pinyin": "děng",
+        "definition": "wait",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "弟弟",
+        "pinyin": "dì di",
+        "definition": "younger brother",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "第一",
+        "pinyin": "dì yī",
+        "definition": "firstly",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "懂",
+        "pinyin": "dǒng",
+        "definition": "to understand",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "对",
+        "pinyin": "duì",
+        "definition": "correct; right",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "房间",
+        "pinyin": "fáng jiān",
+        "definition": "room",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "非常",
+        "pinyin": "fēi cháng",
+        "definition": "extremely",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "服务员",
+        "pinyin": "fú wù yuán",
+        "definition": "waiter/waitress; attendant",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "高",
+        "pinyin": "gāo",
+        "definition": "high; tall",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "告诉",
+        "pinyin": "gào su",
+        "definition": "to tell",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "哥哥",
+        "pinyin": "gē ge",
+        "definition": "elder brother",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "给",
+        "pinyin": "gěi",
+        "definition": "to give",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "公共汽车",
+        "pinyin": "gōng gòng qì chē",
+        "definition": "bus",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "公司",
+        "pinyin": "gōng sī",
+        "definition": "company; office",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "贵",
+        "pinyin": "guì",
+        "definition": "expensive",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "过",
+        "pinyin": "guò",
+        "definition": "[marker after a verb to indicate experience]",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "过",
+        "pinyin": "guò",
+        "definition": "to celebrate (a birthday)",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "还",
+        "pinyin": "hái",
+        "definition": "even",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "孩子",
+        "pinyin": "hái zi",
+        "definition": "child; children",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "好吃",
+        "pinyin": "hǎo chī",
+        "definition": "delicious",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "黑",
+        "pinyin": "hēi",
+        "definition": "black",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "红",
+        "pinyin": "hóng",
+        "definition": "red",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "还",
+        "pinyin": "huán",
+        "definition": "to return",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "火车站",
+        "pinyin": "huǒ chē zhàn",
+        "definition": "railway station",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "机场",
+        "pinyin": "jī chǎng",
+        "definition": "airport",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "鸡蛋",
+        "pinyin": "jī dàn",
+        "definition": "(chicken) egg",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "件",
+        "pinyin": "jiàn",
+        "definition": "item; [measure word for items of clothing]",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "教室",
+        "pinyin": "jiào shì",
+        "definition": "classroom",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "姐姐",
+        "pinyin": "jiě jie",
+        "definition": "elder sister",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "介绍",
+        "pinyin": "jiè shào",
+        "definition": "introduce",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "近",
+        "pinyin": "jìn",
+        "definition": "near; close by",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "进",
+        "pinyin": "jìn",
+        "definition": "to enter",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "就",
+        "pinyin": "jiù",
+        "definition": "simply",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "觉得",
+        "pinyin": "jué de",
+        "definition": "to think; feel",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "咖啡",
+        "pinyin": "kā fēi",
+        "definition": "coffee",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "开始",
+        "pinyin": "kāi shǐ",
+        "definition": "to begin",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "考试",
+        "pinyin": "kǎo shì",
+        "definition": "examination",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "课",
+        "pinyin": "kè",
+        "definition": "lesson",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "可能",
+        "pinyin": "kě néng",
+        "definition": "perhaps; possibly",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "可以",
+        "pinyin": "kě yǐ",
+        "definition": "can; may",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "快",
+        "pinyin": "kuài",
+        "definition": "fast; quick",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "快乐",
+        "pinyin": "kuài lè",
+        "definition": "happy",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "累",
+        "pinyin": "lèi",
+        "definition": "tired",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "离",
+        "pinyin": "lí",
+        "definition": "to be distant from; to leave",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "两",
+        "pinyin": "liǎng",
+        "definition": "two (of something)",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "零",
+        "pinyin": "líng",
+        "definition": "zero",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "路",
+        "pinyin": "lù",
+        "definition": "road; route; bus number",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "旅游",
+        "pinyin": "lǚ yóu",
+        "definition": "tourism",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "卖",
+        "pinyin": "mài",
+        "definition": "to sell",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "慢",
+        "pinyin": "màn",
+        "definition": "slow",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "忙",
+        "pinyin": "máng",
+        "definition": "busy",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "每",
+        "pinyin": "měi",
+        "definition": "every; each",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "妹妹",
+        "pinyin": "mèi mei",
+        "definition": "younger sister",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "门",
+        "pinyin": "mén",
+        "definition": "door",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "面条",
+        "pinyin": "miàn tiáo",
+        "definition": "noodles",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "男",
+        "pinyin": "nán",
+        "definition": "male",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "您",
+        "pinyin": "nín",
+        "definition": "you [polite form]",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "牛奶",
+        "pinyin": "niú nǎi",
+        "definition": "milk",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "女",
+        "pinyin": "nǚ",
+        "definition": "female",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "旁边",
+        "pinyin": "páng biān",
+        "definition": "next to",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "跑步",
+        "pinyin": "pǎo bù",
+        "definition": "running; jogging",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "便宜",
+        "pinyin": "pián yi",
+        "definition": "cheap",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "票",
+        "pinyin": "piào",
+        "definition": "ticket",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "起床",
+        "pinyin": "qǐ chuáng",
+        "definition": "get up (out of bed)",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "妻子",
+        "pinyin": "qī zi",
+        "definition": "wife",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "千",
+        "pinyin": "qiān",
+        "definition": "thousand",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "铅笔",
+        "pinyin": "qiān bǐ",
+        "definition": "pencil",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "晴",
+        "pinyin": "qíng",
+        "definition": "fine; sunny",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "去年",
+        "pinyin": "qù nián",
+        "definition": "last year",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "让",
+        "pinyin": "ràng",
+        "definition": "to let; allow",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "日",
+        "pinyin": "rì",
+        "definition": "day [date]; sun",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "上班",
+        "pinyin": "shàng bān",
+        "definition": "start work",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "身体",
+        "pinyin": "shēn tǐ",
+        "definition": "body; health",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "生病",
+        "pinyin": "shēng bìng",
+        "definition": "ill; sick; unwell",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "生日",
+        "pinyin": "shēng rì",
+        "definition": "birthday",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "时间",
+        "pinyin": "shí jiān",
+        "definition": "time",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "事情",
+        "pinyin": "shì qing",
+        "definition": "matter; affair; thing",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "手表",
+        "pinyin": "shǒu biǎo",
+        "definition": "watch",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "手机",
+        "pinyin": "shǒu jī",
+        "definition": "mobile phone",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "说话",
+        "pinyin": "shuō huà",
+        "definition": "speak",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "送",
+        "pinyin": "sòng",
+        "definition": "to give (present); deliver; see someone off",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "虽然……但是……",
+        "pinyin": "suī rán ……dàn shì …… ",
+        "definition": "although",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "它",
+        "pinyin": "tā",
+        "definition": "it",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "题",
+        "pinyin": "tí",
+        "definition": "question",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "踢足球",
+        "pinyin": "tī zú qiú",
+        "definition": "play football",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "跳舞",
+        "pinyin": "tiào wǔ",
+        "definition": "to dance",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "外",
+        "pinyin": "wài",
+        "definition": "outside",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "完",
+        "pinyin": "wán",
+        "definition": "to finish; [+ verb indicates completion]",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "玩",
+        "pinyin": "wán",
+        "definition": "to play",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "晚上",
+        "pinyin": "wǎn shang",
+        "definition": "evening",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "往",
+        "pinyin": "wǎng",
+        "definition": "towards",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "为什么",
+        "pinyin": "wèi shén me",
+        "definition": "why?",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "问",
+        "pinyin": "wèn",
+        "definition": "to ask",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "问题",
+        "pinyin": "wèn tí",
+        "definition": "problem",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "洗",
+        "pinyin": "xǐ",
+        "definition": "to wash",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "西瓜",
+        "pinyin": "xī guā",
+        "definition": "watermelon",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "希望",
+        "pinyin": "xī wàng",
+        "definition": "hope; wish",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "笑",
+        "pinyin": "xiào",
+        "definition": "to laugh; smile",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "小时",
+        "pinyin": "xiǎo shí",
+        "definition": "hour",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "新",
+        "pinyin": "xīn",
+        "definition": "new",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "姓",
+        "pinyin": "xìng",
+        "definition": "surname",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "休息",
+        "pinyin": "xiū xi",
+        "definition": "to rest",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "雪",
+        "pinyin": "xuě",
+        "definition": "snow",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "眼睛",
+        "pinyin": "yǎn jing",
+        "definition": "eye",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "颜色",
+        "pinyin": "yán sè",
+        "definition": "colour",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "羊肉",
+        "pinyin": "yáng ròu",
+        "definition": "mutton",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "要",
+        "pinyin": "yào",
+        "definition": "want; be going to; ask for; demand",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "药",
+        "pinyin": "yào",
+        "definition": "medicine",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "也",
+        "pinyin": "yě",
+        "definition": "too; also",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "已经",
+        "pinyin": "yǐ jīng",
+        "definition": "already",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "一起",
+        "pinyin": "yì qǐ",
+        "definition": "together",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "意思",
+        "pinyin": "yì si",
+        "definition": "meaning",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "一下",
+        "pinyin": "yī xià",
+        "definition": "[used after a verb] give something a go",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "阴",
+        "pinyin": "yīn",
+        "definition": "cloudy",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "因为……所以……",
+        "pinyin": "yīn wèi ……suǒ yǐ ……",
+        "definition": "because",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "右边",
+        "pinyin": "yòu bian",
+        "definition": "on the right",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "游泳",
+        "pinyin": "yóu yǒng",
+        "definition": "swimming",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "鱼",
+        "pinyin": "yú",
+        "definition": "fish",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "远",
+        "pinyin": "yuǎn",
+        "definition": "far",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "运动",
+        "pinyin": "yùn dòng",
+        "definition": "sport",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "再",
+        "pinyin": "zài",
+        "definition": "again",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "早上",
+        "pinyin": "zǎo shang",
+        "definition": "early morning",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "长",
+        "pinyin": "zhǎng",
+        "definition": "to grow",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "丈夫",
+        "pinyin": "zhàng fu",
+        "definition": "husband",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "找",
+        "pinyin": "zhǎo",
+        "definition": "to find; to look for",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "着",
+        "pinyin": "zhe",
+        "definition": "-ing",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "真",
+        "pinyin": "zhēn",
+        "definition": "real; so (+adjective)",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "正在",
+        "pinyin": "zhèng zài",
+        "definition": "to be in the process of",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "只",
+        "pinyin": "zhī",
+        "definition": "individual [measure word for small animals]",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "只",
+        "pinyin": "zhǐ",
+        "definition": "only",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "知道",
+        "pinyin": "zhī dào",
+        "definition": "know; realise; be aware of",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "准备",
+        "pinyin": "zhǔn bèi",
+        "definition": "to prepare",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "走",
+        "pinyin": "zǒu",
+        "definition": "go; walk",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "最",
+        "pinyin": "zuì",
+        "definition": "most",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "左边",
+        "pinyin": "zuǒ bian",
+        "definition": "on the left",
+        "hsk": "HSK2"
+    },
+    {
+        "char": "啊",
+        "pinyin": "a",
+        "definition": "ah",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "阿姨",
+        "pinyin": "ā yí",
+        "definition": "auntie [mother's younger sister]    ",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "矮",
+        "pinyin": "ǎi",
+        "definition": "short [height]",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "爱好",
+        "pinyin": "ài hào",
+        "definition": "interests; hobbies",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "安静",
+        "pinyin": "ān jìng",
+        "definition": "to be quiet",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "把",
+        "pinyin": "bǎ",
+        "definition": "grasp; [measure word for knives]",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "搬",
+        "pinyin": "bān",
+        "definition": "to move",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "班",
+        "pinyin": "bān",
+        "definition": "class",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "半",
+        "pinyin": "bàn",
+        "definition": "half",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "办法",
+        "pinyin": "bàn fǎ",
+        "definition": "way; method; solution",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "办公室",
+        "pinyin": "bàn gōng shì",
+        "definition": "office",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "帮忙",
+        "pinyin": "bāng máng",
+        "definition": "lend a hand",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "包",
+        "pinyin": "bāo",
+        "definition": "a packet of; package",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "饱",
+        "pinyin": "bǎo",
+        "definition": "full up; eaten to one’s satisfaction",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "被",
+        "pinyin": "bèi",
+        "definition": "quilt; by (somebody/something)",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "北方",
+        "pinyin": "běi fāng",
+        "definition": "the north",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "笔记本",
+        "pinyin": "bǐ jì běn",
+        "definition": "notebook",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "比较",
+        "pinyin": "bǐ jiào",
+        "definition": "compare",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "比赛",
+        "pinyin": "bǐ sài",
+        "definition": "competition; match",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "必须",
+        "pinyin": "bì xū",
+        "definition": "must",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "鼻子",
+        "pinyin": "bí zi",
+        "definition": "nose",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "变化",
+        "pinyin": "biàn huà",
+        "definition": "change",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "别人",
+        "pinyin": "bié ren",
+        "definition": "other people",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "冰箱",
+        "pinyin": "bīng xiāng",
+        "definition": "fridge",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "不但……而且……",
+        "pinyin": "bù dàn ……ér qiě ……",
+        "definition": "not only……but also……",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "菜单",
+        "pinyin": "cài dān",
+        "definition": "menu",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "参加",
+        "pinyin": "cān jiā",
+        "definition": "to take part",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "草",
+        "pinyin": "cǎo",
+        "definition": "grass",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "层",
+        "pinyin": "céng",
+        "definition": "storey",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "差",
+        "pinyin": "chà",
+        "definition": "lack; lacking",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "尝",
+        "pinyin": "cháng",
+        "definition": "taste",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "超市",
+        "pinyin": "chāo shì",
+        "definition": "supermarket",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "衬衫",
+        "pinyin": "chèn shān",
+        "definition": "shirt",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "成绩",
+        "pinyin": "chéng jì",
+        "definition": "results; marks; achievement",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "城市",
+        "pinyin": "chéng shì",
+        "definition": "city",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "迟到",
+        "pinyin": "chí dào",
+        "definition": "arrive late",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "除了",
+        "pinyin": "chú le",
+        "definition": "apart from (\"chule...yiwai\" construction)",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "船",
+        "pinyin": "chuán",
+        "definition": "boat; ship; ferry",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "春",
+        "pinyin": "chūn",
+        "definition": "spring",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "词典",
+        "pinyin": "cí diǎn",
+        "definition": "dictionary",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "聪明",
+        "pinyin": "cōng ming",
+        "definition": "clever; intelligent ",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "打扫",
+        "pinyin": "dǎ sǎo",
+        "definition": "to clean",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "打算",
+        "pinyin": "dǎ suàn",
+        "definition": "plan; intention",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "带",
+        "pinyin": "dài",
+        "definition": "carry",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "蛋糕",
+        "pinyin": "dàn gāo",
+        "definition": "cake",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "担心",
+        "pinyin": "dān xīn",
+        "definition": "worry",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "当然",
+        "pinyin": "dāng rán",
+        "definition": "of course",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "地",
+        "pinyin": "de",
+        "definition": "...ly [particle to connect adverb to verb]",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "灯",
+        "pinyin": "dēng",
+        "definition": "lamp",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "地方",
+        "pinyin": "dì fang",
+        "definition": "place",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "地铁",
+        "pinyin": "dì tiě",
+        "definition": "underground train; tube; metro",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "地图",
+        "pinyin": "dì tú",
+        "definition": "map",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "电梯",
+        "pinyin": "diàn tī",
+        "definition": "lift; elevator",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "电子邮件",
+        "pinyin": "diàn zǐ yóu jiàn",
+        "definition": "email ",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "东",
+        "pinyin": "dōng",
+        "definition": "east",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "冬",
+        "pinyin": "dōng",
+        "definition": "winter",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "动物",
+        "pinyin": "dòng wù",
+        "definition": "animals",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "短",
+        "pinyin": "duǎn",
+        "definition": "short",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "段",
+        "pinyin": "duàn",
+        "definition": "section; paragraph; [measure word for stories, pieces of music, recordings etc.]",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "锻炼",
+        "pinyin": "duàn liàn",
+        "definition": "to engage in physical exercise",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "多么",
+        "pinyin": "duō me",
+        "definition": "how ...",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "饿",
+        "pinyin": "è",
+        "definition": "hungry",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "耳朵",
+        "pinyin": "ěr duo",
+        "definition": "ears",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "发",
+        "pinyin": "fā",
+        "definition": "to send (an email)     ",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "发烧",
+        "pinyin": "fā shāo",
+        "definition": "fever; have a fever",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "发现",
+        "pinyin": "fā xiàn",
+        "definition": "discover",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "放",
+        "pinyin": "fàng",
+        "definition": "to put; set free",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "方便",
+        "pinyin": "fāng biàn",
+        "definition": "convenient",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "放心",
+        "pinyin": "fàng xīn",
+        "definition": "relax; feel relieved",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "分",
+        "pinyin": "fēn",
+        "definition": "minute",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "附近",
+        "pinyin": "fù jìn",
+        "definition": "nearby",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "复习",
+        "pinyin": "fù xí",
+        "definition": "revise",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "干净",
+        "pinyin": "gān jìng",
+        "definition": "clean",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "感冒",
+        "pinyin": "gǎn mào",
+        "definition": "to catch a cold",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "感兴趣",
+        "pinyin": "gǎn xìng qù",
+        "definition": "to be interested (in)",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "刚才",
+        "pinyin": "gāng cái",
+        "definition": "just now",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "个子",
+        "pinyin": "gè zi",
+        "definition": "height; stature",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "跟",
+        "pinyin": "gēn",
+        "definition": "with",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "根据",
+        "pinyin": "gēn jù",
+        "definition": "according to",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "更",
+        "pinyin": "gèng",
+        "definition": "even more",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "公斤",
+        "pinyin": "gōng jīn",
+        "definition": "kilogram",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "公园",
+        "pinyin": "gōng yuán",
+        "definition": "park",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "故事",
+        "pinyin": "gù shi",
+        "definition": "story; tale; plot",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "刮风",
+        "pinyin": "guā fēng",
+        "definition": "windy",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "关",
+        "pinyin": "guān",
+        "definition": "to close",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "关系",
+        "pinyin": "guān xì",
+        "definition": "relationship",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "关心",
+        "pinyin": "guān xīn",
+        "definition": "care about",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "关于",
+        "pinyin": "guān yú",
+        "definition": "about",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "国家",
+        "pinyin": "guó jiā",
+        "definition": "country",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "过去",
+        "pinyin": "guò qu",
+        "definition": "(in the) past",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "害怕",
+        "pinyin": "hài pà",
+        "definition": "afraid",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "还是",
+        "pinyin": "hái shì",
+        "definition": "...or...? [in a question]",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "黑板",
+        "pinyin": "hēi bǎn",
+        "definition": "blackboard",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "后来",
+        "pinyin": "hòu lái",
+        "definition": "afterward",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "护照",
+        "pinyin": "hù zhào",
+        "definition": "passport",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "花",
+        "pinyin": "huā",
+        "definition": "spend",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "花",
+        "pinyin": "huā",
+        "definition": "flower",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "画",
+        "pinyin": "huà",
+        "definition": "to draw; paint (pictures)",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "坏",
+        "pinyin": "huài",
+        "definition": "bad",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "换",
+        "pinyin": "huàn",
+        "definition": "to change (to another one)",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "环境",
+        "pinyin": "huán jìng",
+        "definition": "environment",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "欢迎",
+        "pinyin": "huān yíng",
+        "definition": "to welcome",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "黄河",
+        "pinyin": "huáng hé",
+        "definition": "Yellow River",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "回答",
+        "pinyin": "huí dá",
+        "definition": "reply",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "会议",
+        "pinyin": "huì yì",
+        "definition": "meeting",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "或者",
+        "pinyin": "huò zhě",
+        "definition": "perhaps",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "极",
+        "pinyin": "jí",
+        "definition": "extreme",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "记得",
+        "pinyin": "jì de",
+        "definition": "to remember",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "几乎",
+        "pinyin": "jī hū",
+        "definition": "almost",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "机会",
+        "pinyin": "jī huì",
+        "definition": "opportunity",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "季节",
+        "pinyin": "jì jié",
+        "definition": "season",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "检查",
+        "pinyin": "jiǎn chá",
+        "definition": "inspect",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "简单",
+        "pinyin": "jiǎn dān",
+        "definition": "simple",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "健康",
+        "pinyin": "jiàn kāng",
+        "definition": "healthy; health",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "见面",
+        "pinyin": "jiàn miàn",
+        "definition": "to meet",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "讲",
+        "pinyin": "jiǎng",
+        "definition": "speak",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "教",
+        "pinyin": "jiāo",
+        "definition": "to teach",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "脚",
+        "pinyin": "jiǎo",
+        "definition": "foot",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "角",
+        "pinyin": "jiǎo",
+        "definition": "horn; corner; jiao (written) [unit of currency = 0.1 yuan]",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "接",
+        "pinyin": "jiē",
+        "definition": "connect",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "借",
+        "pinyin": "jiè",
+        "definition": "to lend",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "街道",
+        "pinyin": "jiē dào",
+        "definition": "road",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "结婚",
+        "pinyin": "jié hūn",
+        "definition": "marry",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "解决",
+        "pinyin": "jiě jué",
+        "definition": "to resolve; solve",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "节目",
+        "pinyin": "jié mù",
+        "definition": "programme",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "节日",
+        "pinyin": "jié rì",
+        "definition": "festival",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "结束",
+        "pinyin": "jié shù",
+        "definition": "finish",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "经常",
+        "pinyin": "jīng cháng",
+        "definition": "often; regularly",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "经过",
+        "pinyin": "jīng guò",
+        "definition": "pass through",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "经理",
+        "pinyin": "jīng lǐ",
+        "definition": "manager",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "久",
+        "pinyin": "jiǔ",
+        "definition": "long time",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "旧",
+        "pinyin": "jiù",
+        "definition": "old; former",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "句子",
+        "pinyin": "jù zi",
+        "definition": "sentence",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "决定",
+        "pinyin": "jué dìng",
+        "definition": "decide",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "渴",
+        "pinyin": "kě",
+        "definition": "thirsty",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "刻",
+        "pinyin": "kè",
+        "definition": "quarter (of an hour); to carve",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "可爱",
+        "pinyin": "kě ài",
+        "definition": "lovely; loveable",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "客人",
+        "pinyin": "kè rén",
+        "definition": "guest",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "空调",
+        "pinyin": "kōng tiáo",
+        "definition": "air-conditioning",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "口",
+        "pinyin": "kǒu",
+        "definition": "mouth; [measure word for family members]",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "哭",
+        "pinyin": "kū",
+        "definition": "cry",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "裤子",
+        "pinyin": "kù zi",
+        "definition": "trousers",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "筷子",
+        "pinyin": "kuài zi",
+        "definition": "chopsticks",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "蓝",
+        "pinyin": "lán",
+        "definition": "blue",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "老",
+        "pinyin": "lǎo",
+        "definition": "old; aged",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "离开",
+        "pinyin": "lí kāi",
+        "definition": "leave",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "历史",
+        "pinyin": "lì shǐ",
+        "definition": "history",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "礼物",
+        "pinyin": "lǐ wù",
+        "definition": "gift; present",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "脸",
+        "pinyin": "liǎn",
+        "definition": "face",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "练习",
+        "pinyin": "liàn xí",
+        "definition": "to practise",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "辆",
+        "pinyin": "liàng",
+        "definition": "[measure word for vehicles]",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "了解",
+        "pinyin": "liǎo jiě",
+        "definition": "understand",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "聊天",
+        "pinyin": "liáo tiān",
+        "definition": "to chat",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "邻居",
+        "pinyin": "lín jū",
+        "definition": "neighbour",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "留学",
+        "pinyin": "liú xué",
+        "definition": "study abroad",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "楼",
+        "pinyin": "lóu",
+        "definition": "multi-storied building",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "绿",
+        "pinyin": "lǜ",
+        "definition": "green",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "马",
+        "pinyin": "mǎ",
+        "definition": "horse",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "马上",
+        "pinyin": "mǎ shàng",
+        "definition": "immediately",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "满意",
+        "pinyin": "mǎn yì",
+        "definition": "pleased; satisfied",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "帽子",
+        "pinyin": "mào zi",
+        "definition": "hat",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "米",
+        "pinyin": "mǐ",
+        "definition": "rice; metre",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "面包",
+        "pinyin": "miàn bāo",
+        "definition": "bread",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "明白",
+        "pinyin": "míng bai",
+        "definition": "to understand",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "拿",
+        "pinyin": "ná",
+        "definition": "to take",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "奶奶",
+        "pinyin": "nǎi nai",
+        "definition": "grandmother [father's mother]     ",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "难",
+        "pinyin": "nán",
+        "definition": "hard; difficult",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "南",
+        "pinyin": "nán",
+        "definition": "south",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "难过",
+        "pinyin": "nán guò",
+        "definition": "have a hard time",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "年级",
+        "pinyin": "nián jí",
+        "definition": "(school) year/grade",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "年轻",
+        "pinyin": "nián qīng",
+        "definition": "young",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "鸟",
+        "pinyin": "niǎo",
+        "definition": "bird",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "努力",
+        "pinyin": "nǔ lì",
+        "definition": "hardworking",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "爬山",
+        "pinyin": "pá shān",
+        "definition": "to climb hills/mountains     ",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "盘子",
+        "pinyin": "pán zi",
+        "definition": "tray",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "胖",
+        "pinyin": "pàng",
+        "definition": "fat",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "啤酒",
+        "pinyin": "pí jiǔ",
+        "definition": "beer",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "皮鞋",
+        "pinyin": "pí xié",
+        "definition": "leather shoes",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "瓶子",
+        "pinyin": "píng zi",
+        "definition": "bottle",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "骑",
+        "pinyin": "qí",
+        "definition": "to ride (a bicycle, horse)",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "起飞",
+        "pinyin": "qǐ fēi",
+        "definition": "take off [plane]",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "奇怪",
+        "pinyin": "qí guài",
+        "definition": "strange",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "起来",
+        "pinyin": "qǐ lái",
+        "definition": "stand up; sit up; rise to one's feet",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "其实",
+        "pinyin": "qí shí",
+        "definition": "in fact",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "其他",
+        "pinyin": "qí tā",
+        "definition": "other",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "清楚",
+        "pinyin": "qīng chu",
+        "definition": "clear",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "请假",
+        "pinyin": "qǐng jià",
+        "definition": "ask for leave",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "秋",
+        "pinyin": "qiū",
+        "definition": "autumn",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "裙子",
+        "pinyin": "qún zi",
+        "definition": "skirt",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "然后",
+        "pinyin": "rán hòu",
+        "definition": "and then; after that",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "热情",
+        "pinyin": "rè qíng",
+        "definition": "enthusiastic",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "认为",
+        "pinyin": "rèn wéi",
+        "definition": "to think that; consider",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "认真",
+        "pinyin": "rèn zhēn",
+        "definition": "earnest",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "容易",
+        "pinyin": "róng yì",
+        "definition": "easy",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "如果",
+        "pinyin": "rú guǒ",
+        "definition": "if",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "伞",
+        "pinyin": "sǎn",
+        "definition": "umbrella",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "上网",
+        "pinyin": "shàng wǎng",
+        "definition": "get on the internet",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "生气",
+        "pinyin": "shēng qì",
+        "definition": "to get angry",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "声音",
+        "pinyin": "shēng yīn",
+        "definition": "sound",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "试",
+        "pinyin": "shì",
+        "definition": "to try",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "世界",
+        "pinyin": "shì jiè",
+        "definition": "world",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "瘦",
+        "pinyin": "shòu",
+        "definition": "thin",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "树",
+        "pinyin": "shù",
+        "definition": "tree",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "舒服",
+        "pinyin": "shū fu",
+        "definition": "comfortable",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "叔叔",
+        "pinyin": "shū shu",
+        "definition": "uncle [father's younger brother]",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "数学",
+        "pinyin": "shù xué",
+        "definition": "maths",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "刷牙",
+        "pinyin": "shuā yá",
+        "definition": "brush teeth",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "双",
+        "pinyin": "shuāng",
+        "definition": "a pair of",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "水平",
+        "pinyin": "shuǐ píng",
+        "definition": "level",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "司机",
+        "pinyin": "sī jī",
+        "definition": "driver",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "太阳",
+        "pinyin": "tài yáng",
+        "definition": "sun",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "特别",
+        "pinyin": "tè bié",
+        "definition": "special; especially",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "疼",
+        "pinyin": "téng",
+        "definition": "pain",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "提高",
+        "pinyin": "tí gāo",
+        "definition": "raise",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "体育",
+        "pinyin": "tǐ yù",
+        "definition": "physical education",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "甜",
+        "pinyin": "tián",
+        "definition": "sweet",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "条",
+        "pinyin": "tiáo",
+        "definition": "[measure word for long pieces (hair, branch, trousers etc.)]",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "同事",
+        "pinyin": "tóng shì",
+        "definition": "colleague",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "同意",
+        "pinyin": "tóng yì",
+        "definition": "to agree",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "头发",
+        "pinyin": "tóu fa",
+        "definition": "hair",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "突然",
+        "pinyin": "tū rán",
+        "definition": "suddenly",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "图书馆",
+        "pinyin": "tú shū guǎn",
+        "definition": "library",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "腿",
+        "pinyin": "tuǐ",
+        "definition": "leg",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "碗",
+        "pinyin": "wǎn",
+        "definition": "a bowl of",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "万",
+        "pinyin": "wàn",
+        "definition": "ten thousand",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "完成",
+        "pinyin": "wán chéng",
+        "definition": "complete",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "忘记",
+        "pinyin": "wàng jì",
+        "definition": "forget",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "位",
+        "pinyin": "wèi",
+        "definition": "position",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "为",
+        "pinyin": "wèi",
+        "definition": "for (someone; something); to do; to be",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "为了",
+        "pinyin": "wèi le",
+        "definition": "in order to",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "文化",
+        "pinyin": "wén huà",
+        "definition": "culture",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "西",
+        "pinyin": "xī",
+        "definition": "west",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "习惯",
+        "pinyin": "xí guàn",
+        "definition": "be used to",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "洗手间",
+        "pinyin": "xǐ shǒu jiān",
+        "definition": "toilets; washroom",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "洗澡",
+        "pinyin": "xǐ zǎo",
+        "definition": "have a shower; bath",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "夏",
+        "pinyin": "xià",
+        "definition": "summer",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "先",
+        "pinyin": "xiān",
+        "definition": "first",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "像",
+        "pinyin": "xiàng",
+        "definition": "likeness; resemble; look as if",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "向",
+        "pinyin": "xiàng",
+        "definition": "towards",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "香蕉",
+        "pinyin": "xiāng jiāo",
+        "definition": "banana",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "相信",
+        "pinyin": "xiāng xìn",
+        "definition": "to believe",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "小心",
+        "pinyin": "xiǎo xīn",
+        "definition": "take care",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "校长",
+        "pinyin": "xiào zhǎng",
+        "definition": "head teacher; principal",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "新闻",
+        "pinyin": "xīn wén",
+        "definition": "news",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "新鲜",
+        "pinyin": "xīn xiān",
+        "definition": "fresh",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "信用卡",
+        "pinyin": "xìn yòng kǎ",
+        "definition": "credit card",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "行李箱",
+        "pinyin": "xíng li xiāng",
+        "definition": "trunk [luggage]",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "熊猫",
+        "pinyin": "xióng māo",
+        "definition": "panda",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "需要",
+        "pinyin": "xū yào",
+        "definition": "need",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "选择",
+        "pinyin": "xuǎn zé",
+        "definition": "choice",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "要求",
+        "pinyin": "yāo qiú",
+        "definition": "requirement",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "爷爷",
+        "pinyin": "yé ye",
+        "definition": "grandfather [father's father]    ",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "一般",
+        "pinyin": "yī bān",
+        "definition": "ordinary",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "一边",
+        "pinyin": "yī biān",
+        "definition": "on the one hand …",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "一定",
+        "pinyin": "yī dìng",
+        "definition": "definitely",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "一共",
+        "pinyin": "yī gòng",
+        "definition": "altogether",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "一会儿",
+        "pinyin": "yī huì er",
+        "definition": "a short while",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "以前",
+        "pinyin": "yǐ qián",
+        "definition": "before",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "一样",
+        "pinyin": "yī yàng",
+        "definition": "same; identical",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "一直",
+        "pinyin": "yī zhí",
+        "definition": "straight on; always",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "银行",
+        "pinyin": "yín háng",
+        "definition": "bank",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "饮料",
+        "pinyin": "yǐn liào",
+        "definition": "drink",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "音乐",
+        "pinyin": "yīn yuè",
+        "definition": "music",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "应该",
+        "pinyin": "yīng gāi",
+        "definition": "should",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "影响",
+        "pinyin": "yǐng xiǎng",
+        "definition": "influence; to affect",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "用",
+        "pinyin": "yòng",
+        "definition": "to use",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "又",
+        "pinyin": "yòu",
+        "definition": "again",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "有名",
+        "pinyin": "yǒu míng",
+        "definition": "famous",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "游戏",
+        "pinyin": "yóu xì",
+        "definition": "game",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "遇到",
+        "pinyin": "yù dào",
+        "definition": "to meet",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "元",
+        "pinyin": "yuán",
+        "definition": "yuan [unit of Chinese currency]; dollar",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "愿意",
+        "pinyin": "yuàn yì",
+        "definition": "willing",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "越",
+        "pinyin": "yuè",
+        "definition": "the more...the more….",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "月亮",
+        "pinyin": "yuè liang",
+        "definition": "moon",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "站",
+        "pinyin": "zhàn",
+        "definition": "stand",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "张",
+        "pinyin": "zhāng",
+        "definition": "to open up; to spread; [measure word for table, picture, paper etc]",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "照顾",
+        "pinyin": "zhào gu",
+        "definition": "to look after",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "着急",
+        "pinyin": "zháo jí",
+        "definition": "anxious",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "照片",
+        "pinyin": "zhào piàn",
+        "definition": "photograph",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "照相机",
+        "pinyin": "zhào xiàng jī",
+        "definition": "camera",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "只有……才……",
+        "pinyin": "zhǐ yǒu ……cái ",
+        "definition": "only if…then...",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "种",
+        "pinyin": "zhǒng",
+        "definition": "kind",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "中间",
+        "pinyin": "zhōng jiān",
+        "definition": "middle",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "中文",
+        "pinyin": "zhōng wén",
+        "definition": "Chinese [written language]",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "重要",
+        "pinyin": "zhòng yào",
+        "definition": "important",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "终于",
+        "pinyin": "zhōng yú",
+        "definition": "at last",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "周末",
+        "pinyin": "zhōu mò",
+        "definition": "weekend",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "主要",
+        "pinyin": "zhǔ yào",
+        "definition": "mainly",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "注意",
+        "pinyin": "zhù yì",
+        "definition": "take note of",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "自己",
+        "pinyin": "zì jǐ",
+        "definition": "self; oneself",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "自行车",
+        "pinyin": "zì xíng chē",
+        "definition": "bicycle",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "总是",
+        "pinyin": "zǒng shì",
+        "definition": "always",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "嘴",
+        "pinyin": "zuǐ",
+        "definition": "mouth",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "最后",
+        "pinyin": "zuì hòu",
+        "definition": "lastly",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "最近",
+        "pinyin": "zuì jìn",
+        "definition": "recently",
+        "hsk": "HSK3"
+    },
+    {
+        "char": "作业",
+        "pinyin": "zuò yè",
+        "definition": "homework",
+        "hsk": "HSK3"
+    }
+]
