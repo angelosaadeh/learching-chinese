@@ -1,4 +1,4 @@
-[
+const characterData = [
     {
         "char": "爱",
         "pinyin": "ài",
@@ -7199,4 +7199,4 @@
         "definition": "author",
         "hsk": "HSK4"
     }
-]
+];

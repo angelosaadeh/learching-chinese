@@ -1,0 +1,36 @@
+/* ── BASE / PLAIN THEME ──────────────────────────────────────
+   Regular styling: white background, black text, system font.
+   chinese.css is variable-driven, so these map the whole UI to a
+   simple light look. The font override neutralises the display/
+   mono/serif fonts the original design used.                     */
+:root{
+  --bg:#ffffff;
+  --surface:#ffffff;
+  --grid-bg:#ffffff;
+  --cell:#ffffff;
+  --cell-border:#cccccc;
+  --accent:#1a1a1a;      /* near-black for buttons/active state */
+  --accent2:#333333;     /* pinyin */
+  --accent3:#333333;
+  --text:#000000;
+  --text-dim:#555555;
+  --shadow:rgba(0,0,0,0.1);
+}
+
+*{box-sizing:border-box}
+body, body *{
+  font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+}
+html,body{
+  min-height:100vh;margin:0;
+  background:#ffffff;color:#000000;
+}
+.page-wrap{max-width:720px;margin:0 auto;padding:40px 24px}
+
+/* Keep the card readable on a white page */
+.flashcard{box-shadow:0 1px 6px var(--shadow)}
+.fc-pinyin{font-style:normal}      /* drop the italic serif look */
+.game-link-btn{
+  color:var(--text-dim);font-size:0.82rem;text-decoration:underline;
+}
+.game-link-btn:hover{color:#000}

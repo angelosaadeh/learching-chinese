@@ -1,0 +1,136 @@
+/* ── CHINESE APP EMBED ───────────────────────────────────── */
+#chinese-section{padding:32px 0}
+.chinese-header{margin-bottom:32px}
+.chinese-title{font-family:'Bebas Neue',sans-serif;font-size:2.5rem;letter-spacing:0.12em;color:var(--text);margin-bottom:8px}
+.chinese-desc{font-size:0.85rem;color:var(--text-dim);line-height:1.7;max-width:560px;margin-bottom:16px}
+.hsk-filter{display:flex;justify-content:flex-start;flex-wrap:wrap;gap:8px;margin-bottom:28px}
+.hsk-option{
+  padding:6px 14px;background:var(--cell);border:1px solid var(--cell-border);
+  border-radius:5px;cursor:pointer;font-size:0.72rem;letter-spacing:0.1em;
+  text-transform:uppercase;color:var(--text-dim);transition:all 0.15s;
+  font-family:'DM Mono',monospace;
+}
+.hsk-option:hover{border-color:var(--accent);color:var(--accent)}
+.hsk-option.selected{background:var(--accent);color:var(--bg);border-color:var(--accent)}
+.flashcard{
+  background:var(--surface);border:1px solid var(--cell-border);
+  border-radius:16px;padding:56px 48px;
+  max-width:480px;min-height:280px;
+  display:flex;flex-direction:column;align-items:center;justify-content:center;
+  gap:16px;cursor:pointer;transition:border-color 0.2s;
+  position:relative;
+}
+.flashcard:hover{border-color:var(--accent2)}
+.flashcard-hint{
+  position:absolute;top:16px;right:20px;
+  font-size:0.65rem;letter-spacing:0.15em;text-transform:uppercase;
+  color:var(--text-dim);
+}
+.fc-char{
+  font-size:96px;line-height:1;color:var(--text);
+  transition:transform 0.15s;
+}
+.flashcard:hover .fc-char{transform:scale(1.04)}
+.fc-pinyin{
+  font-family:'Lora',serif;font-style:italic;
+  font-size:1.4rem;color:var(--accent2);
+  opacity:0;transition:opacity 0.25s;
+}
+.fc-pinyin.visible{opacity:1}
+.fc-definition{
+  font-size:0.9rem;color:var(--text-dim);
+  opacity:0;transition:opacity 0.25s;text-align:center;
+}
+.fc-definition.visible{opacity:1}
+.fc-hsk{
+  font-size:0.65rem;letter-spacing:0.15em;text-transform:uppercase;
+  color:var(--cell-border);margin-top:8px;
+}
+.chinese-controls{display:flex;gap:10px;margin-top:20px;flex-wrap:wrap;align-items:center}
+.cn-btn{
+  background:transparent;border:1px solid var(--accent);color:var(--accent);
+  font-family:'DM Mono',monospace;font-size:0.72rem;letter-spacing:0.1em;
+  padding:8px 20px;border-radius:6px;cursor:pointer;transition:all 0.15s;
+  text-transform:uppercase;
+}
+.cn-btn:hover{background:var(--accent);color:var(--bg)}
+.cn-counter{font-size:0.75rem;color:var(--text-dim);margin-left:8px}
+.progress-bar{
+  width:100%;max-width:480px;height:3px;background:var(--cell);
+  border-radius:2px;margin-bottom:24px;overflow:hidden;
+}
+.progress-fill{height:100%;background:var(--accent);transition:width 0.4s ease;width:0%}
+
+/* HSK Filter avec bouton All et checkboxes */
+#hsk-filter {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 28px;
+  max-width: 480px;
+  width: 100%;
+}
+
+.hsk-select-all {
+  padding: 6px 14px;
+  background: var(--cell);
+  border: 1px solid var(--cell-border);
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 0.72rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--text-dim);
+  transition: all 0.15s;
+  font-family: 'DM Mono', monospace;
+  white-space: nowrap;
+}
+.hsk-select-all:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+.hsk-select-all.selected {
+  background: var(--accent);
+  color: var(--bg);
+  border-color: var(--accent);
+}
+
+.hsk-checkboxes {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  flex: 1;
+}
+
+.hsk-row {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.hsk-checkbox {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 6px 14px;
+  background: var(--cell);
+  border: 1px solid var(--cell-border);
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 0.72rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--text-dim);
+  transition: all 0.15s;
+  font-family: 'DM Mono', monospace;
+  white-space: nowrap;
+}
+.hsk-checkbox:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+.hsk-checkbox.checked {
+  background: var(--accent);
+  color: var(--bg);
+  border-color: var(--accent);
+}
