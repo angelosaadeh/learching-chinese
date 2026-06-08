@@ -1,4 +1,4 @@
-# Learching Chinese
+# Learning Chinese
 
 Flashcards for practicing HSK vocabulary (HSK1–HSK4). Click a card to reveal the
 pinyin, click again for the definition, and filter by HSK level.
